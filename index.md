@@ -4,4 +4,4 @@ Hello! My name is Kaia and I am in my third year of my Computer Science Course a
 
 ## FastAI Course
 
-I have created numerous posts on important lessons I have learnt from the [fast.ai course](https://www.fast.ai). These posts will document my learning journey in the field of AI
+I have created numerous posts on important lessons I have learnt from the [fast.ai course](https://www.fast.ai). These posts will document my learning journey in the field of AI. This is a test update.
