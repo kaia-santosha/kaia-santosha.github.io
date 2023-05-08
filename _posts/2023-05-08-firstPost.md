@@ -1,4 +1,4 @@
-# This is my first post title
+# This is my first post
 
 This is my first post and contains numerous techniques for markdown that I have experimented with in order to gain a greater understanding on how to approach future posts.
 
