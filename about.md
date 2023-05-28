@@ -1,4 +1,4 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+This Blog gives you insight into myself, and the progress I have made learning Deep learning techniques via the FastAI course. It contains posts that show my exploration of different techniques used to create advanced machine learning models.
 
