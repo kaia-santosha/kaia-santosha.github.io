@@ -16,3 +16,8 @@ Here are some examples of Word Tokenization:
 
 | I  | am | a | computer | science | student |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+
+* I like to play guitar
+
+| I  | like | to | play | guitar |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
