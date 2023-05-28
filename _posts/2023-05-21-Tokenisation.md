@@ -12,5 +12,7 @@ There are two main types of tokenization:
 Tokenization is a crucial step in NLP because it allows algorithms to manage, understand, and process the text data in a structured format. Once the text is tokenized, further processing like stemming, lemmatization, and stop word removal can be applied, and these tokens can then be used for tasks like text classification, sentiment analysis, machine translation, and information retrieval.
 
 Here are some examples of Word Tokenization:
-* I am a computer science student
+I am a computer science student
+
 | I  | am | a | computer | science | student |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
